@@ -1,4 +1,4 @@
-# 
+# 新 AI Personal Finance Advisor 预设。集成 模型训练 和 生成式AI，性能最大化。
 
 
 
